@@ -1,5 +1,5 @@
 # flexbox-rocketseat
-![clone twitter](https://user-images.githubusercontent.com/22125059/75991219-e8cc4400-5ed4-11ea-8e4c-e0eb8b513ecd.PNG)
+![clone twitter](https://user-images.githubusercontent.com/22125059/75993353-1b2b7080-5ed8-11ea-9023-e1c410a002c8.PNG)
 
 ## Clonando intaface do Twitter
 Nesse curso aprendemos a utilizar as propriedades essenciais do Flexbox.
